@@ -1,0 +1,13 @@
+body {
+    background-color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-header {
+    text-align: center;
+    font-size: 52px;
+}
+
+li {
+    font-size: 32px;
+}
